@@ -1,3 +1,3 @@
 # Tirocinio
 
-Progetti di programmazione di QT c++.
+Progetti di programmazione in QT c++.
