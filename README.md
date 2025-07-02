@@ -1,3 +1,3 @@
 # Tirocinio
 
-Ciao, questo e' il repository di progetti di programmazione di QT c++ del tirocinio in una azienda.
+Progetti di programmazione di QT c++.
