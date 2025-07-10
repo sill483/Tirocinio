@@ -1,1 +1,2 @@
 Ardega.zip filter=lfs diff=lfs merge=lfs -text
+Elvira_min.zip filter=lfs diff=lfs merge=lfs -text
